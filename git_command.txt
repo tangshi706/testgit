@@ -1,3 +1,8 @@
+先将文件添加到缓存区域：git add 文件名
+将文件加到仓库：git commit -m "备注"
+将文件推送到github上面：git push origin master/branch --->要是主分支的代码就是master，若是分支的代码就是branch（这个branch是你起的分支名）
+若是上传冲突可以先git pull一下
+
 ------------------------------------- branch operate ------------------------------
 查看分支：git branch
 创建分支: git branch name
