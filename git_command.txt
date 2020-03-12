@@ -2,6 +2,7 @@
 将文件加到仓库：git commit -m "备注"
 将文件推送到github上面：git push origin master/branch --->要是主分支的代码就是master，若是分支的代码就是branch（这个branch是你起的分支名）
 若是上传冲突可以先git pull一下
+注意：要是存在分支的时候我们应该先合并分支之后在进行删除
 
 ------------------------------------- branch operate ------------------------------
 查看分支：git branch
