@@ -7,4 +7,4 @@
 删除分支：git branch -d name
 ------------------------------------ End ---------------------------------------
 查看日志log：git log --graph --pretty=oneline --abbrev-commit
-
+将文件上传github：git push origin master/dev
