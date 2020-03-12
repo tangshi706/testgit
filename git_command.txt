@@ -1,0 +1,10 @@
+------------------------------------- branch operate ------------------------------
+查看分支：git branch
+创建分支: git branch name
+切换分支：git checkout name
+上面两条命令的合并：--->合并+切换分支:git checkout -b name
+合并当某分支到当前分支：git merge name ---->你要先切换到当前分支，再进行该指令
+删除分支：git branch -d name
+------------------------------------ End ---------------------------------------
+查看日志log：git log --graph --pretty=oneline --abbrev-commit
+
